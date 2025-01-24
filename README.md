@@ -1,4 +1,5 @@
-Hello! 👋🏾 I'm Faith
+<h1 align="center"><strong>Hello! 👋🏾 I'm Faith</strong></h1>
+
 ---
 As a junior data analyst, I’m deeply passionate about uncovering the stories data has to tell. My journey into data analysis stems from a natural curiosity to explore trends, patterns, and relationships that influence decision-making. I thrive on transforming raw data into actionable insights that drive strategic solutions. With a focus on continuous learning, I aim to refine my skills and contribute meaningfully to projects that solve real-world problems and improve outcomes across industries.
 
