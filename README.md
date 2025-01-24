@@ -2,6 +2,9 @@ Hello! 👋🏾 I'm Faith
 ---
 As a junior data analyst, I’m deeply passionate about uncovering the stories data has to tell. My journey into data analysis stems from a natural curiosity to explore trends, patterns, and relationships that influence decision-making. I thrive on transforming raw data into actionable insights that drive strategic solutions. With a focus on continuous learning, I aim to refine my skills and contribute meaningfully to projects that solve real-world problems and improve outcomes across industries.
 
+### Professional Goals
+
+My goal is to continuously evolve as a data analyst by harnessing the power of data-driven insights to address complex, real-world challenges. I aim to contribute meaningfully to projects that create tangible, positive impacts, while deepening my expertise in data analysis, problem-solving, and collaborative teamwork to drive informed decision-making in diverse industries.
 
 ### 🔨 Languages and Tools
 
@@ -20,11 +23,6 @@ I’m fascinated by stories that explore the unknown, whether through data analy
 🎬 Watching Movies: Horror films are my go-to, especially those that explore suspense and tension in unique ways.
 
 ✍️ Writing: I write stories that blur the lines between imagination and reality, often inspired by my favorite genres.
-
-
-### Professional Goals
-
-My goal is to continuously evolve as a data analyst by harnessing the power of data-driven insights to address complex, real-world challenges. I aim to contribute meaningfully to projects that create tangible, positive impacts, while deepening my expertise in data analysis, problem-solving, and collaborative teamwork to drive informed decision-making in diverse industries.
 <!---
 FaithMnisi/FaithMnisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
