@@ -1,7 +1,11 @@
 <h1 align="center"><strong>Hello! 👋🏾 I'm Faith</strong></h1>
 
 ---
-As a junior data analyst, I’m deeply passionate about uncovering the stories data has to tell. My journey into data analysis stems from a natural curiosity to explore trends, patterns, and relationships that influence decision-making. I thrive on transforming raw data into actionable insights that drive strategic solutions. With a focus on continuous learning, I aim to refine my skills and contribute meaningfully to projects that solve real-world problems and improve outcomes across industries.
+Data has the power to uncover hidden patterns, answer complex questions, and drive meaningful decisions, and that's what inspires me every day. My journey into data analysis and data engineering stems from a natural curiosity to explore trends, patterns, and relationships that influence decision-making. I thrive on transforming raw data into actionable insights that drive strategic solutions. My background in Genetics and Medical Virology taught me that behind every dataset lies a story waiting to be uncovered—a perspective that continues to shape how I approach data today. Today, I apply that same analytical mindset to exploring trends, building data-driven solutions, and transforming raw data into actionable insights.
+
+Through hands-on projects, I've gained experience in Python, SQL, data visualization, statistical analysis, database design, and business intelligence. I enjoy tackling challenging problems, whether it's cleaning and analyzing messy datasets, designing efficient databases, or creating dashboards that tell compelling stories with data.
+
+This GitHub is a reflection of my continuous learning journey; a place where I share projects, experiment with new technologies, and develop the technical skills needed to build reliable, scalable data solutions. I'm always looking for opportunities to learn, collaborate, and contribute to projects that create real-world impact.
 
 ### Professional Goals
 
