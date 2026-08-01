@@ -21,20 +21,6 @@ I have experience with:
 ![image](https://github.com/FaithMnisi/FaithMnisi/assets/146010827/e38cf03e-3e09-48a1-8dad-662af269fd4a)
 
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="assets/excel.svg" width="45" alt="Excel"/>
-  <img src="assets/tableau.svg" width="45" alt="Tableau"/>
-  <img src="assets/powerbi.svg" width="45" alt="Power BI"/>
-</p>
 
 ### Data, Stories, and the Space Between: A Personal Exploration
 I’m fascinated by stories that explore the unknown, whether through data analysis, books, films, or writing. Just as data reveals patterns and insights, I’m captivated by the hidden layers of meaning within narratives, be it through numbers, words, or visuals.
