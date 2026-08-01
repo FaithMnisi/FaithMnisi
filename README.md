@@ -19,7 +19,7 @@ I have experience with:
 ![image](https://github.com/FaithMnisi/FaithMnisi/assets/146010827/95430a4f-073a-47a9-9765-56717130a6db)
 ![Tableau Logo](https://www.tableau.com/themes/custom/tableau_www/logo.png)
 ![image](https://github.com/FaithMnisi/FaithMnisi/assets/146010827/e38cf03e-3e09-48a1-8dad-662af269fd4a)
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,git)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
 
 ### Data, Stories, and the Space Between: A Personal Exploration
 I’m fascinated by stories that explore the unknown, whether through data analysis, books, films, or writing. Just as data reveals patterns and insights, I’m captivated by the hidden layers of meaning within narratives, be it through numbers, words, or visuals.
