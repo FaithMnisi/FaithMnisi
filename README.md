@@ -31,11 +31,11 @@ Tools: Git, GitHub, Jupyter Notebook, VS Code
 This repository showcases projects that demonstrate my ability to:
 
 ☙ Build Python applications to solve real-world problems
- ☙ Clean, transform, and analyze data.
- ☙ Design and query relational databases.
- ☙ Create dashboards and data visualizations.
- ☙ Apply statistical methods to support data-driven decisions.
- ☙ Explore data engineering concepts through practical projects.
+☙ Clean, transform, and analyze data.
+☙ Design and query relational databases.
+☙ Create dashboards and data visualizations.
+☙ Apply statistical methods to support data-driven decisions.
+ Explore data engineering concepts through practical projects.
 
 🌱 Currently Learning
 
