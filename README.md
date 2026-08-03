@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Hello! 👋🏾 I'm Faith</strong></h1>
 
 ---
-Data has the power to uncover hidden patterns, answer complex questions, and drive meaningful decisions, and that's what inspires me every day. My journey into data analysis and data engineering stems from a natural curiosity to explore trends, patterns, and relationships that influence decision-making. I thrive on transforming raw data into actionable insights that drive strategic solutions. My background in Genetics and Medical Virology taught me that behind every dataset lies a story waiting to be uncovered—a perspective that continues to shape how I approach data today. Today, I apply that same analytical mindset to exploring trends, building data-driven solutions, and transforming raw data into actionable insights.
+Data has the power to uncover hidden patterns, answer complex questions, and drive meaningful decisions, and that's what inspires me every day. My journey into data analysis and data engineering stems from a natural curiosity to explore trends, patterns, and relationships that influence decision-making. I thrive on transforming raw data into actionable insights that drive strategic solutions. My background in Genetics and Medical Virology taught me that behind every dataset lies a story waiting to be uncovered; a perspective that continues to shape how I approach data today. Today, I apply that same analytical mindset to exploring trends, building data-driven solutions, and transforming raw data into actionable insights.
 
 Through hands-on projects, I've gained experience in Python, SQL, Excel, Tableau, Power BI, data visualization, statistical analysis, database design, and business intelligence. I enjoy tackling challenging problems, whether it's cleaning and analyzing messy datasets, designing efficient databases, or creating dashboards that tell compelling stories with data.
 
@@ -20,7 +20,30 @@ I have experience with:
 ![Tableau Logo](https://www.tableau.com/themes/custom/tableau_www/logo.png)
 ![image](https://github.com/FaithMnisi/FaithMnisi/assets/146010827/e38cf03e-3e09-48a1-8dad-662af269fd4a)
 
+Data Analytics: Pandas, NumPy, Seaborn, Matplotlib, Statistics, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization
 
+Databases: MySQL, SQL Server Management Studio, SQLite, Database Design, Data Modeling
+
+Tools: Git, GitHub, Jupyter Notebook, VS Code
+
+📂 What You'll Find Here
+
+This repository showcases projects that demonstrate my ability to:
+
+☙ Build Python applications to solve real-world problems.
+☙ Clean, transform, and analyze data.
+☙ Design and query relational databases.
+☙ Create dashboards and data visualizations.
+☙ Apply statistical methods to support data-driven decisions.
+☙ Explore data engineering concepts through practical projects.
+
+🌱 Currently Learning
+
+I'm continuing to deepen my knowledge of data engineering, including ETL pipelines, data warehousing, distributed systems, and scalable data architectures.
+
+🎯 Career Goal
+
+I'm seeking an opportunity to begin my career in data, where I can contribute, learn from experienced professionals, and continue developing the technical and analytical skills needed to build impactful data solutions.
 
 ### Data, Stories, and the Space Between: A Personal Exploration
 I’m fascinated by stories that explore the unknown, whether through data analysis, books, films, or writing. Just as data reveals patterns and insights, I’m captivated by the hidden layers of meaning within narratives, be it through numbers, words, or visuals.
