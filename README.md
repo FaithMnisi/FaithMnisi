@@ -26,7 +26,7 @@ Databases: MySQL, SQL Server Management Studio, SQLite, Database Design, Data Mo
 
 Tools: Git, GitHub, Jupyter Notebook, VS Code
 
-📂 What You'll Find Here
+### 📂 What You'll Find Here
 
 This repository showcases projects that demonstrate my ability to:
 
