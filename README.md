@@ -37,11 +37,11 @@ This repository showcases projects that demonstrate my ability to:
 ☙ Apply statistical methods to support data-driven decisions.
 ☙ Explore data engineering concepts through practical projects.
 
-🌱 Currently Learning
+### 🌱 Currently Learning
 
 I'm continuing to deepen my knowledge of data engineering, including ETL pipelines, data warehousing, distributed systems, and scalable data architectures.
 
-🎯 Career Goal
+### 🎯 Career Goal
 
 I'm seeking an opportunity to begin my career in data, where I can contribute, learn from experienced professionals, and continue developing the technical and analytical skills needed to build impactful data solutions.
 
