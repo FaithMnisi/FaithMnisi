@@ -35,7 +35,7 @@ This repository showcases projects that demonstrate my ability to:
 ☙ Design and query relational databases.
 ☙ Create dashboards and data visualizations.
 ☙ Apply statistical methods to support data-driven decisions.
- Explore data engineering concepts through practical projects.
+☙ Explore data engineering concepts through practical projects.
 
 🌱 Currently Learning
 
