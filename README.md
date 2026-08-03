@@ -30,7 +30,7 @@ Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 This repository showcases projects that demonstrate my ability to:
 
-☙ Build Python applications to solve real-world problems.
+☙ Build Python applications to solve real-world problems
 ☙ Clean, transform, and analyze data.
 ☙ Design and query relational databases.
 ☙ Create dashboards and data visualizations.
